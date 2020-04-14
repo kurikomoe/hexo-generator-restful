@@ -3,7 +3,12 @@
     "version": "0.2.3",
     "description": "Generate restful json data for Hexo plugins.",
     "main": "index.js",
-    "keywords": ["hexo", "restful", "json", "generator"],
+    "keywords": [
+        "hexo",
+        "restful",
+        "json",
+        "generator"
+    ],
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yscoder/hexo-generator-restful.git"
